@@ -1,9 +1,7 @@
 ---
 layout: post
-title: joined Prof. Hyun Kim’s IDSL Lab at SEOULTECH as a master's student.
-date: 2024-9-5
+title: Joined Dr. Jaewook Kim’s research group at KIST as a research intern.
+date: 2022-09-05
 inline: true
 related_posts: false
 ---
-
-joined Prof. Hyun Kim’s IDSL Lab at SEOULTECH as a master's student.
