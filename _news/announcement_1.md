@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-9-5
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+joined Prof. Hyun Kim’s IDSL Lab at SEOULTECH as a master's student.
