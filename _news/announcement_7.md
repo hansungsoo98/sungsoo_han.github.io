@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '[Publication] Our paper "Closit" was accepted to APCCAS 2025.'
-date: 2025-10-01
+date: 2025-10-13
 inline: true
 related_posts: false
 ---
