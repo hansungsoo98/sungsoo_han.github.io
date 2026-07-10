@@ -23,6 +23,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<style>
+  .profile {
+    margin-top: -1.25rem;
+  }
+
+  @media (max-width: 576px) {
+    .profile {
+      margin-top: 0;
+    }
+  }
+</style>
+
 I am a master’s student researching efficient AI computing through model compression, low-precision quantization, and hardware–software co-design. My work focuses on block-wise data formats, hardware-aware optimization, RTL-based arithmetic unit design, and accelerator architectures for efficient DNN and LLM inference.
 
 My future research interests lie in efficient vision-language-action (VLA) models and agentic AI. I am particularly interested in developing model compression and inference optimization techniques that reduce computational, memory, and energy costs. Ultimately, I aim to bridge algorithmic optimization and efficient hardware design for the practical deployment of emerging autonomous AI systems.
